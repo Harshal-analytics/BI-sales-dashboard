@@ -1,5 +1,10 @@
 # BI-E-commerce sales-dashboard.
 
+Datasets used - 
+
+- <a href="https://raw.githubusercontent.com/Harshal-analytics/BI-sales-dashboard/main/Orders.csv">orders data</a>
+- <a href="https://github.com/Harshal-analytics/BI-sales-dashboard/blob/main/Details.csv">Details data</a>
+
 This dashboard offers a quick, at-a-glance view of the total sales, profitability, customer behavior, popular payment modes, and product category performance across different states and months. It's useful for spotting trends, identifying top customers, understanding which payment methods are popular, and seeing seasonal impacts on profits.
 
 Top KPIs
