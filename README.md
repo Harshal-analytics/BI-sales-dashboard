@@ -8,6 +8,7 @@ Datasets used -
 Dashboard - 
 
 - <a href="https://github.com/Harshal-analytics/BI-sales-dashboard/blob/main/E-commerce%20sales%20dashboard%20pic.png">E-commerce store
+- <a href="https://github.com/Harshal-analytics/BI-sales-dashboard/blob/main/E-commerce%20sales%20dashboard.pbix"> Bi file
 
 This dashboard offers a quick, at-a-glance view of the total sales, profitability, customer behavior, popular payment modes, and product category performance across different states and months. It's useful for spotting trends, identifying top customers, understanding which payment methods are popular, and seeing seasonal impacts on profits.
 
